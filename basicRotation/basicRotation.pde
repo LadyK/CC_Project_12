@@ -9,4 +9,7 @@ void draw() {
     rotate(0.1);
     ellipse(i, 0, 10, 10);
   }
+  // add more comments
+  /// lots of sweat and braincells were killer
+  ellipse(10, 20, 30, 30);
 }
